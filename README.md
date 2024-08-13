@@ -86,7 +86,7 @@ Total Unsubscribed Users
 Monthly active users
 Market Share %
 
-We have prepared 3 reports covering Revenue & KPI Analysis with Respect to cities and Time period Comaprison Before 5G vs AFter 5G  , Plans Analysis and Market Shared Analysis
+prepared 3 reports covering Revenue & KPI Analysis with Respect to cities and Time period Comaprison Before 5G vs AFter 5G  , Plans Analysis and Market Shared Analysis
 
 ![image](https://github.com/user-attachments/assets/6d87a455-672c-41bb-99d1-7c840bd71d76)
 
@@ -97,14 +97,22 @@ Revenue Before 5G & After 5G
 
 ![image](https://github.com/user-attachments/assets/bbd92cf3-af7c-4fcf-8186-722af1b4379d)
 
+After 5G Overall Revenue across all cities Dropped by 0.5% 
+Mumbai , Delhi , Kolkata , Banglore & chennai are the top  5 cities by revenue and contribute 60% of the total revenue 
+Amonng the top 5 cities delhi , koklata & chennai are showing decline in revenue after 5G launch 
 
 
 ARPU Before 5G & After 5G 
 
 ![image](https://github.com/user-attachments/assets/d47dc5e0-dc0a-49b7-ab2a-d4ae980bb0ce)
 
+
 ![image](https://github.com/user-attachments/assets/64af0eab-325e-4add-85b0-f3b430b64b68)
 
+After 5G ARPU  across all cities is increased by 11%.
+Raipur, Patna & Ahmedabad has shown the improvement in ARPY by 20+% .
+Pune & chennai are the only 2 cities where ARPU has shown negative trend .
+Over the time period After 5G Launch ARPU has shown inmprovement as compare to last months.
 
 Active Users Before 5G  & After 5G
 
@@ -112,13 +120,20 @@ Active Users Before 5G  & After 5G
 
 ![image](https://github.com/user-attachments/assets/fceb6f78-6b46-4ff3-97ed-c68c609a160f)
 
+Overall there is a decline of monthly actve users by 8.28%
+Mumabi , Kolkata , Delhi , Banglore & chennai are the top 5 cities with respect to monthly active users but at the same time Delhi  ,Mumbai , Banglore are lossing customers at high rate as well .
+Ahemdabad , Delhi , Patna , Raipur & Mumbai are the top 5 citites which has lost the maximum users contrary to this  Raipur , patna & ahemdabad has shown improvement in ARPU.
+Analysing the time period of before & after 5G , Monthky Active users after 5G launch is always less as compared to before 5G Launch time period .
 
 Users Lost Before 5G & After 5G 
 
 ![image](https://github.com/user-attachments/assets/7ac0fe08-23e7-49b2-baf7-a00d8a91c681)
 
-
 ![image](https://github.com/user-attachments/assets/25620774-f680-4dd3-ada8-aedbefa6e7dc)
+
+The Unsubscribed users count has been increased drastically after 5G launch which can led to negative publicity of our company we must look into it as early as possible
+Overall there is 10% increase in user lost after 5G launch.
+Lucknow , pune , Jaipur , CHandigarh ,Hyedarbas has user lost percentage more than 15%. this need to be address.
 
 
 
