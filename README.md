@@ -152,6 +152,10 @@ Plan Revenue Before & After 5G Plans Wise
 
 ![image](https://github.com/user-attachments/assets/385bc698-48de-4eeb-9901-181cda01d0a3)
 
+Plan 8, 9, and 10 have been discontinued and Plan 11, 12 and 13 have been introduced after 5G. We have observed that Plan 4, 5, 6, and 7 have experienced a declined revenue growth. So, we need to focus more on these plans along with the newly introduced plans to attract more active users. 
+Apart from that, we could introduce modified attractive plans and roll out offers to increase the engagement for Patna, Coimbatore, Chandigarh, Gurgaon, and Raipur as these are the bottom 5 cities in terms of revenue generation.
+
+
 Top 5 Plans 
 
 ![image](https://github.com/user-attachments/assets/7d468fc6-da4a-4b29-9367-8b2839499fc5)
